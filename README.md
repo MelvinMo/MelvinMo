@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinmo&label=Profile%20views&color=0e75b6&style=flat" alt="melvinmo" /> </p>
 
 - 👩‍💻 My name is Melvin Mokhtari, but I also answer to my nickname Mel Mo 😉
 - 📢 This is how you pronounce my name: `[melvɪn mɔxtʌɹɪ]`
