@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 My name is Melvin Mokhtari, but I also answer to my nickname Mel Mo 😉
+- 👨🏻‍💻 My name is Melvin Mokhtari. I also answer to my nickname Mel Mo 😉
 - 📢 This is how you pronounce my name: `[melvɪn mɔxtʌɹɪ]`
 - 😄 My pronouns are he/him/his
 - 🗣️ I speak and write English, Deutsch and Persian.
