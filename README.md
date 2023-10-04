@@ -3,7 +3,7 @@
 - 👨🏻‍💻 My name is Melvin Mokhtari. I also answer to my nickname Mel Mo 😉
 - 📢 This is how you pronounce my name: `[melvɪn mɔxtʌɹɪ]`
 - 😄 My pronouns are he/him/his
-- 🗣️ I speak and write English, Deutsch and Persian.
+- 🗣️ I speak and write English, Deutsch and Persian
 - 🐙 I'm a senior undergrad computer engineering student at the [IUT](https://english.iut.ac.ir/)
 - 🔗 My home on the net is [melmo.ir](https://melmo.ir)
 - 💼 On LinkedIn I'm [Melvin-Mokhtari](https://www.linkedin.com/in/melvin-mokhtari)
